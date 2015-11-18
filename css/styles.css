@@ -17,3 +17,18 @@ img {
 	max-width: 100%;
 	max-height: 100%;
 }
+
+#header {
+  text-align: center;
+}
+
+#header #menu {
+  margin-top: 90px; 
+  margin-left: 520px;
+}
+
+#header #menu ul li {
+	display: inline;
+	padding-right: 20px;
+	font-size: 30px;
+}
