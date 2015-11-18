@@ -21,7 +21,7 @@ img {
 /*Bagian Pertama*/
 
 #pertama {
-	background: url('images/bg-desk.jpg') no-repeat;
+	background: url('../images/bg-desk.jpg') no-repeat;
 	background-size: cover;
 	-webkit-background-size:cover;
 	height: 620px;
