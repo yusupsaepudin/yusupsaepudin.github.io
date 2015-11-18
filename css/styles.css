@@ -54,11 +54,13 @@ img {
 #header #menu a {
 	color: #C0C0C0 ;
 	font-weight: bold;
+	transition:1s;
 }
 
 
 #header #menu a:hover {
 	color: #fff;
+	transition:1s;
 }
 
 #box {
@@ -83,10 +85,12 @@ img {
 	padding: 5px 0;
 	color: white;
 	font-weight: bold;
+	transition:1s;
 }
 
 #box a:hover {
 	background-color: white;
 	color: black;
 	font-weight: bold;
+	transition:1s;
 }
