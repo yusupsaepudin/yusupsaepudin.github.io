@@ -18,6 +18,12 @@ img {
 	max-height: 100%;
 }
 
+
+.konten {
+	width: 960px;
+	margin: 0 auto;
+}
+
 /*Bagian Pertama*/
 
 
@@ -27,6 +33,7 @@ img {
 	-webkit-background-size:cover;
 	height: 620px;
 	padding-top: 20px;
+
 }
 
 #header {
@@ -45,10 +52,25 @@ img {
 }
 
 #header #menu a {
-	color: white;
+	color: #C0C0C0 ;
+	font-weight: bold;
 }
 
 
 #header #menu a:hover {
-	border-bottom: 5px solid white;
+	color: #fff;
+}
+
+#box {
+	background-color: rgba(0, 0, 0,0.6);
+	color: white;
+	text-transform: capitalize;
+	font-size: 30px;
+	margin: 120px 0;
+	padding: 40px;
+	text-align: center;
+}
+
+#box h1 {
+	font-weight: bold;
 }
