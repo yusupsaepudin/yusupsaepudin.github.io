@@ -20,6 +20,7 @@ img {
 
 /*Bagian Pertama*/
 
+
 #pertama {
 	background: url('../images/bg-desk.jpg') no-repeat;
 	background-size: cover;
@@ -33,12 +34,21 @@ img {
 }
 
 #header #menu {
-  margin-top: 90px; 
-  margin-left: 520px;
+  margin-top: 70px; 
+  margin-left: 620px;
 }
 
 #header #menu ul li {
 	display: inline;
 	padding-right: 20px;
 	font-size: 30px;
+}
+
+#header #menu a {
+	color: white;
+}
+
+
+#header #menu a:hover {
+	border-bottom: 5px solid white;
 }
