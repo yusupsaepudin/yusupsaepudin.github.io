@@ -1,0 +1,19 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+	font-weight: normal;
+}
+
+a {
+	text-decoration: none;
+}
+
+li {
+	list-style-type: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
