@@ -74,3 +74,19 @@ img {
 #box h1 {
 	font-weight: bold;
 }
+
+#box a {
+	display: block;
+	border: 2px solid white;
+	width: 300px;
+	margin: 25px auto;
+	padding: 5px 0;
+	color: white;
+	font-weight: bold;
+}
+
+#box a:hover {
+	background-color: white;
+	color: black;
+	font-weight: bold;
+}
