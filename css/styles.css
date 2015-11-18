@@ -38,10 +38,11 @@ img {
 
 #header {
   text-align: center;
+
 }
 
 #header #menu {
-  margin-top: 70px; 
+  margin-top: 50px; 
   margin-left: 620px;
 }
 
@@ -54,13 +55,11 @@ img {
 #header #menu a {
 	color: #C0C0C0 ;
 	font-weight: bold;
-	transition:1s;
 }
 
 
 #header #menu a:hover {
 	color: #fff;
-	transition:1s;
 }
 
 #box {
