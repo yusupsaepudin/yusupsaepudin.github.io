@@ -18,6 +18,16 @@ img {
 	max-height: 100%;
 }
 
+/*Bagian Pertama*/
+
+#pertama {
+	background: url('images/bg-desk.jpg') no-repeat;
+	background-size: cover;
+	-webkit-background-size:cover;
+	height: 620px;
+	padding-top: 20px;
+}
+
 #header {
   text-align: center;
 }
