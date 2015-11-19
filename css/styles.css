@@ -126,3 +126,25 @@ h2 {
 	margin-bottom: 20px;
 }
 
+.karya_gambar {
+	position: relative;
+}
+
+.karya_gambar p{
+	position: absolute;
+	display: none;
+	top: 0px;
+	left: 25px;
+	width: 250px;
+	text-align: center;
+	line-height: 250px;
+	font-size: 25px;
+	color: white;
+	background-color: rgba(0,0,0,0.6);
+	border-radius: 50%;
+	font-weight: bold;
+}
+
+.karya_gambar:hover p {
+	display: block;
+}
