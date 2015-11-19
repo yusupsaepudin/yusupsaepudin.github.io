@@ -24,6 +24,11 @@ img {
 	margin: 0 auto;
 }
 
+.kolom {
+	width: 300px;
+	float: left;
+}
+
 /*Bagian Pertama*/
 
 
@@ -31,7 +36,7 @@ img {
 	background: url('../images/bg-desk.jpg') no-repeat;
 	background-size: cover;
 	-webkit-background-size:cover;
-	height: 620px;
+	height: 650px;
 	padding-top: 20px;
 
 }
@@ -92,4 +97,19 @@ img {
 	color: black;
 	font-weight: bold;
 	transition:1s;
+}
+
+
+/* bagian kedua */
+
+#kedua {
+	background-color: #c0c0c0;
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+#kedua img {
+	width: 250px;
+	height: 250px;
+	border-radius:50%;
 }
