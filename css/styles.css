@@ -19,6 +19,14 @@ img {
 }
 
 
+h2 {
+	font-size: 30px;
+	font-weight: bold;
+	padding: 30px 0 45px 0;
+	width: 200px;
+	margin: 0 auto;
+}
+
 .konten {
 	width: 960px;
 	margin: 0 auto;
@@ -110,14 +118,6 @@ img {
 	text-align: center;
 }
 
-h2 {
-	font-size: 35px;
-	font-weight: bold;
-	padding: 30px 0 45px 0;
-	width: 200px;
-	margin: 0 auto;
-}
-
 #kedua img {
 	width: 250px;
 	height: 250px;
@@ -148,4 +148,44 @@ h2 {
 
 .deskripsi {
 	padding-bottom: 20px;
+}
+
+/* Bagian ketiga*/
+
+.kolom_2 {
+	float: left;
+	width: 450px;
+	margin: 0 15px;
+}
+
+#ketiga h2 {
+	text-align: center;
+	font-size: 30px;
+}
+
+#ketiga input, #ketiga textarea {
+	display: block;
+	width: 100%;
+	height: 30px;
+	margin-bottom: 12px;
+	border: 1px solid black;
+	
+}
+
+input[type="submit"] {
+	background-color: #c0c0c0;
+	font-size: 20px;
+}
+
+input[type="submit"]:hover {
+	cursor: pointer;
+	background-color: #eaeaea;
+}
+
+#ketiga textarea {
+	height: 130px;
+}
+
+#ketiga iframe {
+	max-width: 450px;
 }
