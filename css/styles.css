@@ -3,6 +3,7 @@
 	padding: 0;
 	font-family: arial;
 	font-weight: normal;
+
 }
 
 a {
@@ -47,6 +48,8 @@ h2 {
 	background: url('../images/bg-desk.jpg') no-repeat;
 	background-size: cover;
 	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
 	height: 650px;
 	padding-top: 20px;
 
