@@ -29,7 +29,6 @@ h2 {
 	font-size: 40px;
 	font-weight: bold;
 	padding: 50px 0 50px 0;
-	width: 350px;
 	margin: 0 auto;
 	text-transform: uppercase;
 	color: #55847F;
@@ -38,6 +37,10 @@ h2 {
 .konten {
 	width: 960px;
 	margin: 0 auto;
+}
+
+.konten h2 {
+	text-align: center;
 }
 
 .kolom {
