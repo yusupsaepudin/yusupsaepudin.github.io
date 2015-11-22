@@ -72,17 +72,19 @@ h2 {
 }
 
 #header #menu a {
-	color: #C0C0C0 ;
+	color: #fff ;
 	font-weight: bold;
+	text-shadow: 2px 2px 3px #323232;
 }
 
 
 #header #menu a:hover {
 	color: #fff;
+	border-bottom:5px solid white;
 }
 
 #box {
-	background-color: rgba(0, 0, 0,0.6);
+	background-color: rgba(113,176,170,0.6);
 	color: white;
 	text-transform: capitalize;
 	font-size: 30px;
@@ -108,7 +110,7 @@ h2 {
 
 #box a:hover {
 	background-color: white;
-	color: black;
+	color: #55847f;
 	font-weight: bold;
 	transition:1s;
 }
@@ -141,7 +143,7 @@ h2 {
 	line-height: 250px;
 	font-size: 25px;
 	color: white;
-	background-color: rgba(0,0,0,0.6);
+	background-color: rgba(102,204,102,0.6);
 	font-weight: bold;
 }
 
