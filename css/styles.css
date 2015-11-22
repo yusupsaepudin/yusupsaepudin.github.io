@@ -81,6 +81,7 @@ h2 {
 #header #menu a:hover {
 	color: #fff;
 	border-bottom:5px solid white;
+
 }
 
 #box {
@@ -113,6 +114,9 @@ h2 {
 	color: #55847f;
 	font-weight: bold;
 	transition:1s;
+	-ms-transform: rotate(-5deg); /* IE 9 */
+  -webkit-transform: rotate(-5deg); /* Safari */
+  transform: rotate(-5deg); /* Standard syntax */
 }
 
 
