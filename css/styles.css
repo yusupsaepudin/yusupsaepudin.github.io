@@ -146,7 +146,38 @@ h2 {
 
 #skillsaya {
 	background-image: url("../images/p1.png");
+	margin: 0 auto;
 }
+
+#skillsaya img {
+	width: 150px;
+	height: 150px;
+	margin: 20px;
+	margin-right: 100px;
+	float:left;
+}
+
+.kolom_3 {
+	width: 320px;
+	float: left;
+	position: relative;
+	left: 80px;
+}
+
+.kolom_3 p{
+	position: absolute;
+	display: none;
+	top: 0px;
+	left: 35px;
+	width: 350px;
+	text-align: center;
+	line-height: 250px;
+	font-size: 25px;
+	color: white;
+	background-color: rgba(102,204,102,0.6);
+	font-weight: bold;
+}
+
 
 /* bagian kedua */
 
@@ -201,7 +232,7 @@ h2 {
 	margin: 0 auto;
 }
 
-#ketiga input, #ketiga textarea {
+#ketiga input[type="text"], #ketiga input[type="email"], #ketiga textarea {
 	display: block;
 	width: 95%;
 	height: 50px;
@@ -215,6 +246,13 @@ h2 {
 input[type="submit"] {
 	background-color: #639a95;
 	color: white;
+	display: block;
+	width: 97.5%;
+	height: 50px;
+	font-size: 23px;
+	margin-bottom: 12px;
+	border: 1px solid black;
+
 }
 
 input[type="submit"]:hover {
