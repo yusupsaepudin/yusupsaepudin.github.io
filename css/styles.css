@@ -1,9 +1,8 @@
 * {
 	margin: 0;
 	padding: 0;
-	font-family: arial;
+	font-family: tahoma;
 	font-weight: normal;
-
 }
 
 a {
@@ -21,11 +20,14 @@ img {
 
 
 h2 {
-	font-size: 30px;
+	font-family: arial;
+	font-size: 40px;
 	font-weight: bold;
-	padding: 30px 0 45px 0;
-	width: 200px;
+	padding: 50px 0 50px 0;
+	width: 350px;
 	margin: 0 auto;
+	text-transform: uppercase;
+	color: #55847F;
 }
 
 .konten {
@@ -40,19 +42,6 @@ h2 {
 
 .clear {
 	clear: both;
-}
-/*Bagian Pertama*/
-
-
-#pertama {
-	background: url('../images/bg-desk.png') no-repeat;
-	background-size: cover;
-	-webkit-background-size:cover;
-	-moz-background-size:cover;
-	-o-background-size:cover;
-	height: 650px;
-	padding-top: 20px;
-
 }
 
 #header {
@@ -120,6 +109,29 @@ h2 {
 }
 
 
+/*Bagian Pertama*/
+
+
+#pertama {
+	background: url('../images/bg-desk.png') no-repeat;
+	background-size: cover;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	height: 650px;
+	padding-top: 20px;
+
+}
+
+/*Bagian tentang saya*/
+#tentang p{
+	text-align: center;
+	margin-bottom: 30px;
+	font-size: 23px;
+	font-family: lato;
+	line-height: 1;
+	font-weight: Light 300;
+}
 /* bagian kedua */
 
 #kedua {
