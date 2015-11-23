@@ -40,7 +40,7 @@ h2 {
 .konten {
 	width: 960px;
 	margin: 0 auto;
-	padding: 30px 0;
+	padding: 90px 0;
 }
 
 .konten h2 {
@@ -79,7 +79,7 @@ h2 {
 
 
 #header #menu a:hover {
-	color: yellow;
+	color: #55847f;
 
 }
 
@@ -136,7 +136,6 @@ h2 {
 /*Bagian tentang saya*/
 #tentang p{
 	text-align: center;
-	margin-bottom: 30px;
 	font-size: 23px;
 	font-family: lato;
 	line-height: 1.5;
@@ -259,9 +258,10 @@ h2 {
 }
 
 .deskripsi {
-	padding-bottom: 20px;
+	padding-bottom: 50px;
 	width: 250px;
 	margin: 0 auto;
+
 }
 
 /* Bagian ketiga*/
@@ -278,9 +278,9 @@ h2 {
 
 #ketiga input[type="text"], #ketiga input[type="email"], #ketiga textarea {
 	display: block;
-	width: 95%;
+	width: 90%;
 	height: 50px;
-	padding: 5px;
+	padding: 3px 25px;
 	font-size: 23px;
 	margin-bottom: 12px;
 	border: 1px solid black;
@@ -291,7 +291,7 @@ input[type="submit"] {
 	background-color: #639a95;
 	color: white;
 	display: block;
-	width: 97.5%;
+	width: 101.5%;
 	height: 50px;
 	font-size: 23px;
 	margin-bottom: 12px;
@@ -320,6 +320,6 @@ input[type="submit"]:hover {
 	color: #fff;
 	font-weight: bold;
 	text-align: center;
-	padding: 20px;
+	padding: 50px;
 	font-size: 20px;
 }
