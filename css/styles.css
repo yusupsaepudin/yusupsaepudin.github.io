@@ -179,6 +179,48 @@ h2 {
 }
 
 
+/* Kolom Pendidikan */
+
+
+#pendidikan {	
+	text-align: center;
+}
+
+#pendidikan img {
+	width: 150px;
+	height: 150px;
+	margin-bottom: 5px;
+	transition:1s;
+}
+
+#pendidikan img:hover {
+	cursor: pointer;
+	width: 170px;
+	height: 170px;
+	transition:1s;
+}
+
+.kolom_pendidikan {
+	width: 320px;
+	float: left;
+	position: relative;
+	left: 10px;
+}
+
+.kolom_pendidikan p{
+	padding-bottom: 20px;
+	width: 250px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.deskripsi_pendidikan {
+	padding-bottom: 210px;
+	width: 250px;
+	margin: 0 auto;
+}
+
+
 /* bagian kedua */
 
 #kedua {
@@ -212,6 +254,7 @@ h2 {
 
 .karya_gambar:hover p {
 	display: block;
+	
 }
 
 .deskripsi {
