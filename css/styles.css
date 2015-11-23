@@ -1,7 +1,6 @@
 * {
 	margin: 0;
 	padding: 0;
-	font-family: tahoma;
 	font-weight: normal;
 }
 
@@ -254,7 +253,7 @@ h2 {
 
 .karya_gambar:hover p {
 	display: block;
-	
+
 }
 
 .deskripsi {
