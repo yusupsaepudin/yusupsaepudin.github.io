@@ -58,7 +58,6 @@ h2 {
 
 #header {
   text-align: center;
-
 }
 
 #header #menu {
@@ -68,7 +67,6 @@ h2 {
 
 #header #menu ul li {
 	display: inline;
-	padding-right: 20px;
 	font-size: 30px;
 }
 
@@ -76,12 +74,12 @@ h2 {
 	color: #fff ;
 	font-weight: bold;
 	text-shadow: 2px 2px 3px #323232;
+	padding-right: 35px;
 }
 
 
 #header #menu a:hover {
-	color: #fff;
-	border-bottom:5px solid white;
+	color: yellow;
 
 }
 
@@ -141,7 +139,7 @@ h2 {
 	margin-bottom: 30px;
 	font-size: 23px;
 	font-family: lato;
-	line-height: 1;
+	line-height: 1.5;
 	font-weight: Light 300;
 }
 
