@@ -1,7 +1,14 @@
 ---
-theme :
-  name : bootstrap-3
-layout: default
+layout: base
 ---
-{% include JB/setup %}
-{% include themes/bootstrap-3/post.html %}
+
+<article class="mar-b-7">
+  {% include header.html %}
+
+  {{ content }}
+</article>
+
+{% include mailchimp.html %}
+
+{% include disqus.html %}
+
