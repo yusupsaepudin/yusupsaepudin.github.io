@@ -1,13 +1,13 @@
-## Code behind [kamranahmed.info](http://kamranahmed.info)
+# Thinkspace v2.1
 
-[Jekyll](http://jekyllrb.com) based blog. Hosted on [GitHub Pages](https://pages.github.com) with blog posts written in [Kramdown](http://kramdown.gettalong.org/documentation.html).
+Thinkspace is just another minimalist Jekyll theme which is best suit for technical writing, but not limited to. Good for personal blog type too or project-based blog. Disqus comment is included.
 
-## Contact
+[**Live Demo**](http://heiswayi.github.io/thinkspace/)
 
-* Submit an [issue](https://github.com/tmm/tmm.github.io/issues)
-* [Twitter](https://twitter.com/kamranahmedse/)
-* kamranahmed.se@gmail.com
+### Screenshot
 
-## License
+![Thinkspace Screenshot](http://i.imgur.com/IMQDB9e.png)
 
-&copy; 2017 - Kamran Ahmed
+### License
+
+[MIT](LICENSE.md)
