@@ -1,8 +1,7 @@
-
 ---
 layout: page
 title: Tools
 permalink: /tools/
 ---
 
-tools page
+Masih bingung isinya apa :D.
