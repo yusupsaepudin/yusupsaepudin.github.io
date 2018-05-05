@@ -2,6 +2,7 @@
 layout: page
 title: Resources
 permalink: /resources/
+comment: true
 ---
 
 #### HTML 5 Resources
