@@ -8,4 +8,5 @@ permalink: /contact/
 * Email: yusupsaepudin19@gmail.com
 
 ##### Let's Socialize!
+* <a href="https://twitter.com/yusup_social" target="_blank">Twitter</a>
 * <a href="https://www.linkedin.com/in/yusup-saepudin/" target="_blank">Linkedin</a>
