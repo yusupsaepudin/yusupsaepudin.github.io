@@ -22,4 +22,3 @@ permalink: /resources/
 #### Images
 * <a href="https://unsplash.com/" target="_blank">Unsplash</a> *My #1 resource
 * <a href="https://www.canva.com/" target="_blank">Canva</a>
-
