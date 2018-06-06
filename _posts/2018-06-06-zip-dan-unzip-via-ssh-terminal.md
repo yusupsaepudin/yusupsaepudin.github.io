@@ -13,5 +13,5 @@ zip -r namafolder.zip namafolder/
 
 Unzip file / folder
 ```
-unzip -r namafolder.zip
+unzip namafolder.zip
 ```
