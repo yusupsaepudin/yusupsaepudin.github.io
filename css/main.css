@@ -7,10 +7,38 @@ body {
   font-family: Georgia, serif;
 }
 
+@media only screen and (max-width: 760px) {
+  body {
+      width: 90%;
+  }
+}
+
+
 a {
   color: #e5e5e5;
 }
 
 .introduction {
   margin-bottom: 16px;
+}
+
+.content { display: flex; }
+.content .left {
+  flex-basis: auto;
+  flex-grow: 1;
+}
+
+@media only screen and (max-width: 760px) {
+  .content {
+      display: block;
+  }
+}
+
+.text-center {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
 }
