@@ -1,0 +1,16 @@
+body {
+  background-color: #323232;
+  color: #e5e5e5;
+  width: 50%;
+  margin: 10% auto;
+  font-size: 1.2rem;
+  font-family: Georgia, serif;
+}
+
+a {
+  color: #e5e5e5;
+}
+
+.introduction {
+  margin-bottom: 16px;
+}
